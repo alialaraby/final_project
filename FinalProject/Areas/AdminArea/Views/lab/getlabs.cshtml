@@ -1,0 +1,33 @@
+﻿@model List<FinalProject.BLL.ViewModels.labVM>
+@{
+    ViewBag.Title = "getlabs";
+}
+
+<h2>getlabs</h2>
+
+<table class="table table-striped">
+    <tr>
+        <td>الرقم</td>
+
+        <td> اسم االقاعة</td>
+        <td>رقم الدور</td>
+        <td>وصف القاعة</td>
+        <td>رقم القاعة </td>
+        <td>رقم الخدمة</td>
+
+
+    </tr>
+    <tr>
+        @foreach (var item in Model)
+        {
+            <td>@item.lab_id</td>
+            <td>@item.lab_name</td>
+            <td>@item.floor_number</td>
+            <td>@item.description</td>
+            <td>@item.lab_number</td>
+            <td>@item.service_id</td>
+        }
+
+    </tr>
+
+</table>

@@ -18,3 +18,15 @@ D:\project\final_project\FinalProject.DAL\bin\Debug\EntityFramework.SqlServer.xm
 D:\project\final_project\FinalProject.DAL\obj\Debug\FinalProject.DAL.csprojResolveAssemblyReference.cache
 D:\project\final_project\FinalProject.DAL\obj\Debug\FinalProject.DAL.dll
 D:\project\final_project\FinalProject.DAL\obj\Debug\FinalProject.DAL.pdb
+F:\ITI\Final-Project\final project\final_project\FinalProject.DAL\bin\Debug\FinalProject.DAL.dll.config
+F:\ITI\Final-Project\final project\final_project\FinalProject.DAL\bin\Debug\FinalProject.DAL.dll
+F:\ITI\Final-Project\final project\final_project\FinalProject.DAL\bin\Debug\FinalProject.DAL.pdb
+F:\ITI\Final-Project\final project\final_project\FinalProject.DAL\bin\Debug\EntityFramework.dll
+F:\ITI\Final-Project\final project\final_project\FinalProject.DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\ITI\Final-Project\final project\final_project\FinalProject.DAL\bin\Debug\EntityFramework.xml
+F:\ITI\Final-Project\final project\final_project\FinalProject.DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\ITI\Final-Project\final project\final_project\FinalProject.DAL\obj\Debug\FinalProject.DAL.csprojAssemblyReference.cache
+F:\ITI\Final-Project\final project\final_project\FinalProject.DAL\obj\Debug\FinalProject.DAL.csproj.CoreCompileInputs.cache
+F:\ITI\Final-Project\final project\final_project\FinalProject.DAL\obj\Debug\FinalProject.DAL.csproj.CopyComplete
+F:\ITI\Final-Project\final project\final_project\FinalProject.DAL\obj\Debug\FinalProject.DAL.dll
+F:\ITI\Final-Project\final project\final_project\FinalProject.DAL\obj\Debug\FinalProject.DAL.pdb

@@ -26,6 +26,7 @@
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
     <TypeScriptToolsVersion>1.8</TypeScriptToolsVersion>
+    <Use64BitIISExpress />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -154,6 +155,7 @@
     <Content Include="Areas\AdminArea\Views\Instructor\AddInstructor.cshtml" />
     <Content Include="Areas\AdminArea\Views\Instructor\Edit.cshtml" />
     <Content Include="Areas\AdminArea\Views\Instructor\index.cshtml" />
+    <Content Include="Areas\AdminArea\Views\lab\getlabs.cshtml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
@@ -203,6 +205,7 @@
     <Compile Include="Areas\AdminArea\AdminAreaAreaRegistration.cs" />
     <Compile Include="Areas\AdminArea\Controllers\AdminController.cs" />
     <Compile Include="Areas\AdminArea\Controllers\InstructorController.cs" />
+    <Compile Include="Areas\AdminArea\Controllers\labController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>

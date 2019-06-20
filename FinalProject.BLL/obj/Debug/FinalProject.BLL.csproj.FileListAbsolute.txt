@@ -22,3 +22,18 @@ D:\project\final_project\FinalProject.BLL\bin\Debug\EntityFramework.SqlServer.xm
 D:\project\final_project\FinalProject.BLL\obj\Debug\FinalProject.BLL.csprojResolveAssemblyReference.cache
 D:\project\final_project\FinalProject.BLL\obj\Debug\FinalProject.BLL.dll
 D:\project\final_project\FinalProject.BLL\obj\Debug\FinalProject.BLL.pdb
+F:\ITI\Final-Project\final project\final_project\FinalProject.BLL\bin\Debug\FinalProject.BLL.dll.config
+F:\ITI\Final-Project\final project\final_project\FinalProject.BLL\bin\Debug\FinalProject.BLL.dll
+F:\ITI\Final-Project\final project\final_project\FinalProject.BLL\bin\Debug\FinalProject.BLL.pdb
+F:\ITI\Final-Project\final project\final_project\FinalProject.BLL\bin\Debug\EntityFramework.dll
+F:\ITI\Final-Project\final project\final_project\FinalProject.BLL\bin\Debug\EntityFramework.SqlServer.dll
+F:\ITI\Final-Project\final project\final_project\FinalProject.BLL\bin\Debug\FinalProject.DAL.dll
+F:\ITI\Final-Project\final project\final_project\FinalProject.BLL\bin\Debug\FinalProject.DAL.pdb
+F:\ITI\Final-Project\final project\final_project\FinalProject.BLL\bin\Debug\FinalProject.DAL.dll.config
+F:\ITI\Final-Project\final project\final_project\FinalProject.BLL\bin\Debug\EntityFramework.xml
+F:\ITI\Final-Project\final project\final_project\FinalProject.BLL\bin\Debug\EntityFramework.SqlServer.xml
+F:\ITI\Final-Project\final project\final_project\FinalProject.BLL\obj\Debug\FinalProject.BLL.csprojAssemblyReference.cache
+F:\ITI\Final-Project\final project\final_project\FinalProject.BLL\obj\Debug\FinalProject.BLL.csproj.CoreCompileInputs.cache
+F:\ITI\Final-Project\final project\final_project\FinalProject.BLL\obj\Debug\FinalProject.BLL.csproj.CopyComplete
+F:\ITI\Final-Project\final project\final_project\FinalProject.BLL\obj\Debug\FinalProject.BLL.dll
+F:\ITI\Final-Project\final project\final_project\FinalProject.BLL\obj\Debug\FinalProject.BLL.pdb
