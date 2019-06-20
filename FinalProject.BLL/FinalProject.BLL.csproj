@@ -50,8 +50,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BusinessLayer\CategoryBLL.cs" />
+    <Compile Include="BusinessLayer\InstructorBll.cs" />
+    <Compile Include="BusinessLayer\QualificationBll.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ViewModels\CategoryVM.cs" />
+    <Compile Include="ViewModels\instructorQualificationPhoneViewModel.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\FinalProject.DAL\FinalProject.DAL.csproj">

@@ -10,3 +10,15 @@ E:\iti completed projects\New folder\FinalProject\FinalProject.BLL\bin\Debug\Ent
 E:\iti completed projects\New folder\FinalProject\FinalProject.BLL\obj\Debug\FinalProject.BLL.csprojResolveAssemblyReference.cache
 E:\iti completed projects\New folder\FinalProject\FinalProject.BLL\obj\Debug\FinalProject.BLL.dll
 E:\iti completed projects\New folder\FinalProject\FinalProject.BLL\obj\Debug\FinalProject.BLL.pdb
+D:\project\final_project\FinalProject.BLL\bin\Debug\FinalProject.BLL.dll.config
+D:\project\final_project\FinalProject.BLL\bin\Debug\FinalProject.BLL.dll
+D:\project\final_project\FinalProject.BLL\bin\Debug\FinalProject.BLL.pdb
+D:\project\final_project\FinalProject.BLL\bin\Debug\EntityFramework.dll
+D:\project\final_project\FinalProject.BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\project\final_project\FinalProject.BLL\bin\Debug\FinalProject.DAL.dll
+D:\project\final_project\FinalProject.BLL\bin\Debug\FinalProject.DAL.pdb
+D:\project\final_project\FinalProject.BLL\bin\Debug\EntityFramework.xml
+D:\project\final_project\FinalProject.BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\project\final_project\FinalProject.BLL\obj\Debug\FinalProject.BLL.csprojResolveAssemblyReference.cache
+D:\project\final_project\FinalProject.BLL\obj\Debug\FinalProject.BLL.dll
+D:\project\final_project\FinalProject.BLL\obj\Debug\FinalProject.BLL.pdb

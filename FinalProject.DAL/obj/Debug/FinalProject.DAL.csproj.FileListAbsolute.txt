@@ -8,3 +8,13 @@ E:\iti completed projects\New folder\FinalProject\FinalProject.DAL\bin\Debug\Ent
 E:\iti completed projects\New folder\FinalProject\FinalProject.DAL\obj\Debug\FinalProject.DAL.csprojResolveAssemblyReference.cache
 E:\iti completed projects\New folder\FinalProject\FinalProject.DAL\obj\Debug\FinalProject.DAL.dll
 E:\iti completed projects\New folder\FinalProject\FinalProject.DAL\obj\Debug\FinalProject.DAL.pdb
+D:\project\final_project\FinalProject.DAL\bin\Debug\FinalProject.DAL.dll.config
+D:\project\final_project\FinalProject.DAL\bin\Debug\FinalProject.DAL.dll
+D:\project\final_project\FinalProject.DAL\bin\Debug\FinalProject.DAL.pdb
+D:\project\final_project\FinalProject.DAL\bin\Debug\EntityFramework.dll
+D:\project\final_project\FinalProject.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\project\final_project\FinalProject.DAL\bin\Debug\EntityFramework.xml
+D:\project\final_project\FinalProject.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\project\final_project\FinalProject.DAL\obj\Debug\FinalProject.DAL.csprojResolveAssemblyReference.cache
+D:\project\final_project\FinalProject.DAL\obj\Debug\FinalProject.DAL.dll
+D:\project\final_project\FinalProject.DAL\obj\Debug\FinalProject.DAL.pdb

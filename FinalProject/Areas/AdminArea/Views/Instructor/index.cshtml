@@ -1,0 +1,42 @@
+﻿
+@model  FinalProject.BLL.ViewModels.instructorQualificationPhoneViewModel
+@using FinalProject.BLL.ViewModels
+@{
+    ViewBag.Title = "index";
+}
+<div class="container" dir="rtl">
+    <div class="row">
+        <div class="col-2">
+            @Html.ActionLink("اضافة مدرب", "AddInstructor",null, new { @class="btn btn-primary"})
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            @if (ViewBag.Istructors != null)
+            {
+                <table>
+                    <tr>
+                        <td>اسم المدرب</td>
+                        <td>الوحدة التابع لها</td>
+                        <td>المواضيع</td>
+                        <td>التليفون</td>
+                        <td></td>
+
+                    </tr>
+                    @foreach (var item in ViewBag.Istructors as List<instructorQualificationPhoneViewModel>)
+                    {
+                    <tr>
+                        <td>@item.instructor_name</td>
+                        <td>@item.NameOf_ItsUnit</td>
+                        <td>@item.TrainningTopic</td>
+                        <td>@item.phone</td>
+                        <td>@Html.ActionLink("تعديل", "Edit", "Instructor", new { id = @item.instructor_id }, new { @class = "btn btn-sucess" })</td>
+                        <td>@Html.ActionLink("حذف", "delete", "Instructor", new { id = @item.instructor_id }, new { @class = "btn btn-danger",onclick="return confirm('Are You Sure To delete ?)" })</td>
+                    </tr>
+                    }
+                </table>
+            }
+        </div>
+    </div>
+</div>
+

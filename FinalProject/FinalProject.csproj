@@ -151,6 +151,9 @@
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
     <Content Include="Areas\AdminArea\Views\Admin\Empty.cshtml" />
+    <Content Include="Areas\AdminArea\Views\Instructor\AddInstructor.cshtml" />
+    <Content Include="Areas\AdminArea\Views\Instructor\Edit.cshtml" />
+    <Content Include="Areas\AdminArea\Views\Instructor\index.cshtml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
@@ -199,6 +202,7 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Areas\AdminArea\AdminAreaAreaRegistration.cs" />
     <Compile Include="Areas\AdminArea\Controllers\AdminController.cs" />
+    <Compile Include="Areas\AdminArea\Controllers\InstructorController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -226,6 +230,10 @@
     <ProjectReference Include="..\FinalProject.BLL\FinalProject.BLL.csproj">
       <Project>{51d8f798-96ab-4f12-94ec-81cb3f508b95}</Project>
       <Name>FinalProject.BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FinalProject.DAL\FinalProject.DAL.csproj">
+      <Project>{dffc5936-ad75-4af0-a483-0a3354f8cafc}</Project>
+      <Name>FinalProject.DAL</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

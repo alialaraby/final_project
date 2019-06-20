@@ -39,3 +39,44 @@ E:\iti completed projects\New folder\FinalProject\FinalProject\bin\System.Web.Mv
 E:\iti completed projects\New folder\FinalProject\FinalProject\bin\FinalProject.DAL.pdb
 E:\iti completed projects\New folder\FinalProject\FinalProject\obj\Debug\FinalProject.dll
 E:\iti completed projects\New folder\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+D:\project\final_project\FinalProject\bin\roslyn\csc.exe
+D:\project\final_project\FinalProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\project\final_project\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\project\final_project\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\project\final_project\FinalProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\project\final_project\FinalProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\project\final_project\FinalProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\project\final_project\FinalProject\bin\roslyn\System.Collections.Immutable.dll
+D:\project\final_project\FinalProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\project\final_project\FinalProject\bin\roslyn\vbc.exe
+D:\project\final_project\FinalProject\bin\roslyn\VBCSCompiler.exe
+D:\project\final_project\FinalProject\bin\roslyn\VBCSCompiler.exe.config
+D:\project\final_project\FinalProject\bin\FinalProject.dll.config
+D:\project\final_project\FinalProject\bin\FinalProject.dll
+D:\project\final_project\FinalProject\bin\FinalProject.pdb
+D:\project\final_project\FinalProject\bin\EntityFramework.dll
+D:\project\final_project\FinalProject\bin\EntityFramework.SqlServer.dll
+D:\project\final_project\FinalProject\bin\FinalProject.BLL.dll
+D:\project\final_project\FinalProject\bin\FinalProject.DAL.dll
+D:\project\final_project\FinalProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\project\final_project\FinalProject\bin\Microsoft.Web.Infrastructure.dll
+D:\project\final_project\FinalProject\bin\System.Web.Helpers.dll
+D:\project\final_project\FinalProject\bin\System.Web.Mvc.dll
+D:\project\final_project\FinalProject\bin\System.Web.Razor.dll
+D:\project\final_project\FinalProject\bin\System.Web.Webpages.Deployment.dll
+D:\project\final_project\FinalProject\bin\System.Web.Webpages.dll
+D:\project\final_project\FinalProject\bin\System.Web.Webpages.Razor.dll
+D:\project\final_project\FinalProject\bin\FinalProject.BLL.pdb
+D:\project\final_project\FinalProject\bin\FinalProject.DAL.pdb
+D:\project\final_project\FinalProject\bin\EntityFramework.xml
+D:\project\final_project\FinalProject\bin\EntityFramework.SqlServer.xml
+D:\project\final_project\FinalProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\project\final_project\FinalProject\bin\System.Web.Razor.xml
+D:\project\final_project\FinalProject\bin\System.Web.Webpages.xml
+D:\project\final_project\FinalProject\bin\System.Web.Webpages.Deployment.xml
+D:\project\final_project\FinalProject\bin\System.Web.Webpages.Razor.xml
+D:\project\final_project\FinalProject\bin\System.Web.Helpers.xml
+D:\project\final_project\FinalProject\bin\System.Web.Mvc.xml
+D:\project\final_project\FinalProject\obj\Debug\FinalProject.csprojResolveAssemblyReference.cache
+D:\project\final_project\FinalProject\obj\Debug\FinalProject.dll
+D:\project\final_project\FinalProject\obj\Debug\FinalProject.pdb
